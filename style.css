@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  max-width: 300px;
+  margin: 0 auto;
+  font-family: arial, helvetica, sans-serif;
+  background-color: lightgrey;
+}
+
+#paragraph-result {
+  margin-top: 50px;
+}
+
+input {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  width: 200px
+
+}
+
+.titulo {
+  color: brown;
+  margin-bottom: 30px;
+}
+
+#imc-result {
+  color: brown;
+}
+
+#imc-return {
+  color: brown;
+}
+
+#paragraph-result{
+  margin-bottom: 15px;
+}
